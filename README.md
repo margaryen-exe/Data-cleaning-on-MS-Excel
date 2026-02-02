@@ -10,7 +10,7 @@ The formula usage : IFERROR formula was used to fic calculation fixtures in PRIC
 IF function was used to fill in blank spaces in the ITEMS column using the Price Per Unit column as a reference.
 
 DIRTY CAFE COPY
-<img width="1366" height="671" alt="Screenshot 2026-01-22 115856" src="https://github.com/user-attachments/assets/d434b859-30bd-4bf4-9ed7-44fe1ebb0619" />
+<img width="1363" height="698" alt="Screenshot 2026-01-22 115840" src="https://github.com/user-attachments/assets/7538f836-55c5-4689-8fb6-8125dd6828b6" />
 
 CLEANED CAFE COPY
 <img width="1366" height="698" alt="Screenshot 2026-01-22 120157" src="https://github.com/user-attachments/assets/32c0822f-2915-4a72-b519-f68f4a3812c9" />
